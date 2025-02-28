@@ -30,7 +30,7 @@ The dataset includes the following key fields:
 ## 🛠 Tech Stack
 - **Power BI**: Data visualization and dashboard creation.
 - **Power Query** : ETL (Extract,Transform & Load )
-- **Excel/CSV/PDF **: Data sources used for analysis.
+- **Excel/CSV/PDF**: Data sources used for analysis.
 
 
 ## 📌 Dashboard Insights & Visualizations
