@@ -32,42 +32,57 @@ The dataset includes the following key fields:
 - **Power Query** : ETL (Extract,Transform & Load )
 - **Excel/CSV/PDF**: Data sources used for analysis.
 
-## 📊 Power BI Dashboard Screenshots
+## 📊 Power BI Dashboard Visuals  
 
-### 1️⃣ Cyber Crime Trends (2013-2023)
+### 1️⃣ **The Dark Side of Digital India**  
+![The Dark Side of Digital India](https://your-image-url.com/1-Front-Page.png)
+
+### 2️⃣ **State-Wise Cyber Crime Analysis in India (2013-2023)**  
+![State-Wise Cyber Crime Analysis](https://your-image-url.com/2-State-Wise-Crime.png)
+
+### 3️⃣ **City-Wise Cyber Crime Analysis in India (2020-22)**  
+![City-Wise Cyber Crime Analysis](https://your-image-url.com/3-City-Wise-Crime.png)
+
+### 4️⃣ **Cyber Crime Categories Across States - Data-Driven Overview**  
+![Cyber Crime Categories Across States](https://your-image-url.com/4-Crime-Categories.png)
+
+### 5️⃣ **The Cost of Cyber Crime in India - Financial Loss Analysis**  
+![Financial Loss Analysis](https://your-image-url.com/5-Financial-Loss.png)
+
+### 6️⃣ **Cyber Exploitation in India - Women & Children at Risk (2022)**  
+![Cyber Exploitation](https://your-image-url.com/6-Cyber-Exploitation.png)
+
+### 7️⃣ **Tracking Cyber Crime Investigation - State Wise Analysis (2022)**  
+![State-Wise Cyber Crime Investigation](https://your-image-url.com/7-State-Investigation.png)
+
+### 8️⃣ **Tracking Cyber Crime Investigation - City Wise Analysis (2022)**  
+![City-Wise Cyber Crime Investigation](https://your-image-url.com/8-City-Investigation.png)
+
+### 9️⃣ **Tracking Cyber Crime Investigation - Category Wise Insights (2022)**  
+![Category-Wise Cyber Crime Investigation](https://your-image-url.com/9-Category-Investigation.png)
+
+### 🔟 **Insights & Recommendations**  
+![Insights & Recommendations](https://your-image-url.com/10-Insights.png)
 
 
-
-### 2️⃣ State & City-Wise Impact
-![State-Wise Cyber Crime](C:\Users\chemi\Downloads\PROJECT - DATA ANALYST\PROJECT-India's Cyber Crime Project\1-Front Page - The Dark Side of Digital India.png)
-
-### 3️⃣ Crime Categories Breakdown
-![Crime Categories](https://your-image-url.com/crime-categories.png)
-
-### 4️⃣ Financial Loss & Investigation Performance
-![Financial Loss](https://your-image-url.com/financial-loss.png)
+## 📌 Dashboard Insights
 
 
-## 📌 Dashboard Insights & Visualizations
-1. **Cyber Crime Growth Over Years (2013-2023)**
-   - 📈 Line chart showing increasing trend in cybercrime cases.
-
-3. **State-Wise & City-Wise Impact**  
-   - 🔥 Column chart displaying worst-affected states and cities.
+1. **State-Wise & City-Wise Impact**  
    - 🔹 Maharashtra, Uttar Pradesh, Gujarat, Karnataka, Telangana among top affected states.
 
-4. **Crime Categories Breakdown (2022)**  
+2. **Crime Categories Breakdown (2022)**  
    - 💻 Computer-related offenses (23,894 cases).
    - 🏦 Online banking fraud (6,491 cases).
    - 🆔 Identity theft (5,740 cases).
    - 📱 OTP fraud (2,910 cases).
    - 📸 Publishing obscene material (2,755 cases).
 
-5. **Financial Impact (2018-2024)**  
+3. **Financial Impact (2018-2024)**  
    - 💰 Financial loss increased from **7.54K Cr**.
    - 📊 Highest loss in **2023-24 (1.9K Cr).**
 
-6. **Investigation Performance (2022)**  
+4. **Investigation Performance (2022)**  
    - **Mega Cities:**  
      - 🔎 Total Cases: **54,000**  
      - ✅ Solved: **24,000**  
@@ -80,7 +95,7 @@ The dataset includes the following key fields:
      - ❌ Pending: **75,000**  
      - ⚖️ Resolution Rate: **46.13%**  
 
-7. **Cyber Crimes Against Women & Children (2022)**  
+5. **Cyber Crimes Against Women & Children (2022)**  
    - 🏆 Highest cases in **Karnataka, Maharashtra, Telangana, UP, Andhra Pradesh**.  
    - 👩‍💻 Major crimes: Cyberstalking, pornography, blackmailing, fake profiles.  
    - 👶 Child-targeted cybercrimes: Gaming-related crimes, fake profiles, bullying.  
