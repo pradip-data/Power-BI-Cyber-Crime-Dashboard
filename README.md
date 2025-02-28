@@ -38,7 +38,7 @@ The dataset includes the following key fields:
 ## 📊 Power BI Dashboard Visuals  
 
 ### 1️⃣ **The Dark Side of Digital India**  
-![The Dark Side of Digital India](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/1-Front-Page.png)
+![The Dark Side of Digital India](https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/15ee7f1d6f5a2104d7ab4cdde085b27fb9f689e8/Dashboard_Images/1-Front%20Page%20-%20The%20Dark%20Side%20of%20Digital%20India.png)
 
 ### 2️⃣ **State-Wise Cyber Crime Analysis in India (2013-2023)**  
 ![State-Wise Cyber Crime Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/2-State-Wise-Crime.png)
