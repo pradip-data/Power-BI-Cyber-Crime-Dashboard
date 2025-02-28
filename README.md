@@ -3,6 +3,20 @@
 ## 📌 Project Overview
 The **Power BI Cyber Crime Dashboard** is an interactive data visualization tool that provides insights into cybercrime trends in India. It helps users analyze year-wise crime patterns, state-wise impact, crime categories, financial losses, and investigative effectiveness.
 
+## 📌 Data Sources
+This project is based on **real-world data** collected from multiple authentic government sources, including:  
+- **NCRB Report 2022** (National Crime Records Bureau)  
+- **PIB** (Press Information Bureau)  
+- **Rajya Sabha & Lok Sabha Question-Answer Data**  
+- **RBI Reports** 
+
+## 💡 Why This Project Matters?
+- **Understand cybercrime trends** and their impact on different regions of India.  
+- **Identify high-risk states & cities** to improve cybersecurity measures.  
+- **Analyze financial losses** caused by cyber frauds over the years.  
+- **Evaluate investigation effectiveness** and track case resolution rates.  
+- **Raise awareness** about cybercrimes targeting women & children.  
+
 ## 🎯 Objectives
 - **Understand Cybercrime Trends**: Analyze the growth of cybercrime cases from 2013-2023.
 - **State-Wise Analysis**: Identify the most affected states and cities.
