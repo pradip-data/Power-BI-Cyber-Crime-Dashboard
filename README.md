@@ -63,7 +63,7 @@ The dataset includes the following key fields:
 ### 5️⃣ **The Cost of Cyber Crime in India - Financial Loss Analysis**  
 <br>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/5-Financial-Loss.png" width="800">
+  <img src="https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/1df749b80ab42f1a355fe687ac0d076104952548/Dashboard_Images/5-The%20Cost%20of%20Cyber%20Crime%20In%20India%20-%20Financial%20Loss%20Analysis.png" width="800">
 </p>  
 
 ### 6️⃣ **Cyber Exploitation in India - Women & Children at Risk (2022)**  
