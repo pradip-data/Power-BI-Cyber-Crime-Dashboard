@@ -154,8 +154,10 @@ The dataset includes the following key fields:
 4. **Publish the Dashboard**: Upload to Power BI Service for online access.
 
 ## 🔗 Links
-- 📂 **Dataset**:[https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/tree/3f8139739ed003c9cf0751f4fd1130a139c00dbb/dataset_folder]
-- 📊 **Power BI Dashboard**: [Power BI Dashboard Link]  
+- 📂 **Dataset**:  https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/tree/3f8139739ed003c9cf0751f4fd1130a139c00dbb/dataset_folder
+- 
+- 📊 **Power BI Dashboard**:  https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/1bcb028ac594f90021415d4c344eff268bd93261/Cyber%20Crime%20Analysis%20Power%20BI%20Dashboard.pbix
+  
 - 🔍 **GitHub Repository**: [Your GitHub Repo Link]
 
 ---
