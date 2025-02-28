@@ -35,13 +35,11 @@ The dataset includes the following key fields:
 ## 📊 Power BI Dashboard Screenshots
 
 ### 1️⃣ Cyber Crime Trends (2013-2023)
-<br>
-<br>
-![1-Front Page - The Dark Side of Digital India](https://github.com/user-attachments/assets/b06b6e58-c9ea-4e6d-acef-87bc3077463c)
+
 
 
 ### 2️⃣ State & City-Wise Impact
-![State-Wise Cyber Crime](https://your-image-url.com/state-wise-impact.png)
+![State-Wise Cyber Crime](C:\Users\chemi\Downloads\PROJECT - DATA ANALYST\PROJECT-India's Cyber Crime Project\1-Front Page - The Dark Side of Digital India.png)
 
 ### 3️⃣ Crime Categories Breakdown
 ![Crime Categories](https://your-image-url.com/crime-categories.png)
