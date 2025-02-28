@@ -51,7 +51,7 @@ The dataset includes the following key fields:
 ### 3️⃣ **City-Wise Cyber Crime Analysis in India (2020-22)**  
 <br>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/3-City-Wise-Crime.png" width="800">
+  <img src="https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/1b51c5cddc96d8732c84eb9e64ebfdf21d9ea477/Dashboard_Images/3-City%20Wise%20Cyber%20Crime%20Analysis%20in%20India%20(2020-22).png" width="800">
 </p>  
 
 ### 4️⃣ **Cyber Crime Categories Across States - Data-Driven Overview**  
