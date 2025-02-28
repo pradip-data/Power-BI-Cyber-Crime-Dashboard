@@ -57,7 +57,7 @@ The dataset includes the following key fields:
 ### 4️⃣ **Cyber Crime Categories Across States - Data-Driven Overview**  
 <br>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/4-Crime-Categories.png" width="800">
+  <img src="https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/049aef9455aca3cee7bcb62e5c64a774b1120875/Dashboard_Images/4-Cyber%20Crime%20Categories%20Across%20States%20-%20Data%20Driven%20Overview.png" width="800">
 </p>  
 
 ### 5️⃣ **The Cost of Cyber Crime in India - Financial Loss Analysis**  
