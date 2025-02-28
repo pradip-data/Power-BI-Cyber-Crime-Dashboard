@@ -75,7 +75,7 @@ The dataset includes the following key fields:
 ### 7️⃣ **Tracking Cyber Crime Investigation - State Wise Analysis (2022)**  
 <br>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/7-State-Investigation.png" width="800">
+  <img src="https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/26000db1f45bc10c271bb439ac6d6e590fd6cd14/Dashboard_Images/7-Tracking%20Cyber%20Crime%20Investigation%20State%20Wise%20Analysis%20(2022).png" width="800">
 </p>  
 
 ### 8️⃣ **Tracking Cyber Crime Investigation - City Wise Analysis (2022)**  
