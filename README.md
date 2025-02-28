@@ -90,20 +90,11 @@ The dataset includes the following key fields:
   <img src="https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/fee170b50048d9901ef69c8d4d0f4ae88473616c/Dashboard_Images/9-Tracking%20Cyber%20Crime%20Investigation%20Category%20Wise%20Insights%20(2022).png" width="800">
 </p>  
 
-### 🔟 **Insights & Recommendations**  
-<br>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/10-Insights.png" width="800">
-</p>  
-
-
-
-
 
 ## 📌 Dashboard Insights
 
 
-1. **State-Wise & City-Wise Impact**  
+1. **State-Wise Impact**  
    - 🔹 Maharashtra, Uttar Pradesh, Gujarat, Karnataka, Telangana among top affected states.
 
 2. **Crime Categories Breakdown (2022)**  
