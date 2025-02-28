@@ -32,27 +32,44 @@ The dataset includes the following key fields:
 - **Power Query** : ETL (Extract,Transform & Load )
 - **Excel/CSV/PDF**: Data sources used for analysis.
 
+## 📊 Power BI Dashboard Screenshots
+
+### 1️⃣ Cyber Crime Trends (2013-2023)
+<br>
+<br>
+![1-Front Page - The Dark Side of Digital India](https://github.com/user-attachments/assets/b06b6e58-c9ea-4e6d-acef-87bc3077463c)
+
+
+### 2️⃣ State & City-Wise Impact
+![State-Wise Cyber Crime](https://your-image-url.com/state-wise-impact.png)
+
+### 3️⃣ Crime Categories Breakdown
+![Crime Categories](https://your-image-url.com/crime-categories.png)
+
+### 4️⃣ Financial Loss & Investigation Performance
+![Financial Loss](https://your-image-url.com/financial-loss.png)
+
 
 ## 📌 Dashboard Insights & Visualizations
-1. **Cyber Crime Growth Over Years (2013-2023)**  
+1. **Cyber Crime Growth Over Years (2013-2023)**
    - 📈 Line chart showing increasing trend in cybercrime cases.
 
-2. **State-Wise & City-Wise Impact**  
-   - 🔥 Heatmaps displaying worst-affected states and cities.
+3. **State-Wise & City-Wise Impact**  
+   - 🔥 Column chart displaying worst-affected states and cities.
    - 🔹 Maharashtra, Uttar Pradesh, Gujarat, Karnataka, Telangana among top affected states.
 
-3. **Crime Categories Breakdown (2022)**  
+4. **Crime Categories Breakdown (2022)**  
    - 💻 Computer-related offenses (23,894 cases).
    - 🏦 Online banking fraud (6,491 cases).
    - 🆔 Identity theft (5,740 cases).
    - 📱 OTP fraud (2,910 cases).
    - 📸 Publishing obscene material (2,755 cases).
 
-4. **Financial Impact (2018-2024)**  
+5. **Financial Impact (2018-2024)**  
    - 💰 Financial loss increased from **7.54K Cr**.
    - 📊 Highest loss in **2023-24 (1.9K Cr).**
 
-5. **Investigation Performance (2022)**  
+6. **Investigation Performance (2022)**  
    - **Mega Cities:**  
      - 🔎 Total Cases: **54,000**  
      - ✅ Solved: **24,000**  
@@ -65,7 +82,7 @@ The dataset includes the following key fields:
      - ❌ Pending: **75,000**  
      - ⚖️ Resolution Rate: **46.13%**  
 
-6. **Cyber Crimes Against Women & Children (2022)**  
+7. **Cyber Crimes Against Women & Children (2022)**  
    - 🏆 Highest cases in **Karnataka, Maharashtra, Telangana, UP, Andhra Pradesh**.  
    - 👩‍💻 Major crimes: Cyberstalking, pornography, blackmailing, fake profiles.  
    - 👶 Child-targeted cybercrimes: Gaming-related crimes, fake profiles, bullying.  
