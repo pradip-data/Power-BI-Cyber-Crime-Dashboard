@@ -155,14 +155,14 @@ The dataset includes the following key fields:
 
 ## 🔗 Links
 - 📂 **Dataset**:  https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/tree/3f8139739ed003c9cf0751f4fd1130a139c00dbb/dataset_folder
-- 
+
 - 📊 **Power BI Dashboard**:  https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/1bcb028ac594f90021415d4c344eff268bd93261/Cyber%20Crime%20Analysis%20Power%20BI%20Dashboard.pbix
   
-- 🔍 **GitHub Repository**: [Your GitHub Repo Link]
+- 🔍 **GitHub Repository**:  https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/tree/main
 
 ---
 
 ## 👨‍💻 Author
 - **[Your Name]**
-- 📧 Contact: [Your Email]
+- 📧 Contact: pradipias2023@gmail.com
 - 🌐 LinkedIn: [Your LinkedIn Profile]
