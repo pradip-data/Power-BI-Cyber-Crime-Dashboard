@@ -32,37 +32,41 @@ The dataset includes the following key fields:
 - **Power Query** : ETL (Extract,Transform & Load )
 - **Excel/CSV/PDF**: Data sources used for analysis.
 
+
+# 🚨 The Dark Side of Digital India  
+
 ## 📊 Power BI Dashboard Visuals  
 
 ### 1️⃣ **The Dark Side of Digital India**  
-![The Dark Side of Digital India](https://your-image-url.com/1-Front-Page.png)
+![The Dark Side of Digital India](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/1-Front-Page.png)
 
 ### 2️⃣ **State-Wise Cyber Crime Analysis in India (2013-2023)**  
-![State-Wise Cyber Crime Analysis](https://your-image-url.com/2-State-Wise-Crime.png)
+![State-Wise Cyber Crime Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/2-State-Wise-Crime.png)
 
 ### 3️⃣ **City-Wise Cyber Crime Analysis in India (2020-22)**  
-![City-Wise Cyber Crime Analysis](https://your-image-url.com/3-City-Wise-Crime.png)
+![City-Wise Cyber Crime Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/3-City-Wise-Crime.png)
 
 ### 4️⃣ **Cyber Crime Categories Across States - Data-Driven Overview**  
-![Cyber Crime Categories Across States](https://your-image-url.com/4-Crime-Categories.png)
+![Cyber Crime Categories Across States](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/4-Crime-Categories.png)
 
 ### 5️⃣ **The Cost of Cyber Crime in India - Financial Loss Analysis**  
-![Financial Loss Analysis](https://your-image-url.com/5-Financial-Loss.png)
+![Financial Loss Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/5-Financial-Loss.png)
 
 ### 6️⃣ **Cyber Exploitation in India - Women & Children at Risk (2022)**  
-![Cyber Exploitation](https://your-image-url.com/6-Cyber-Exploitation.png)
+![Cyber Exploitation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/6-Cyber-Exploitation.png)
 
 ### 7️⃣ **Tracking Cyber Crime Investigation - State Wise Analysis (2022)**  
-![State-Wise Cyber Crime Investigation](https://your-image-url.com/7-State-Investigation.png)
+![State-Wise Cyber Crime Investigation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/7-State-Investigation.png)
 
 ### 8️⃣ **Tracking Cyber Crime Investigation - City Wise Analysis (2022)**  
-![City-Wise Cyber Crime Investigation](https://your-image-url.com/8-City-Investigation.png)
+![City-Wise Cyber Crime Investigation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/8-City-Investigation.png)
 
 ### 9️⃣ **Tracking Cyber Crime Investigation - Category Wise Insights (2022)**  
-![Category-Wise Cyber Crime Investigation](https://your-image-url.com/9-Category-Investigation.png)
+![Category-Wise Cyber Crime Investigation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/9-Category-Investigation.png)
 
 ### 🔟 **Insights & Recommendations**  
-![Insights & Recommendations](https://your-image-url.com/10-Insights.png)
+![Insights & Recommendations](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/10-Insights.png)
+
 
 
 ## 📌 Dashboard Insights
