@@ -69,7 +69,7 @@ The dataset includes the following key fields:
 ### 6️⃣ **Cyber Exploitation in India - Women & Children at Risk (2022)**  
 <br>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/6-Cyber-Exploitation.png" width="800">
+  <img src="https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/f0491d4ba5179c21e113ac164a434f9d156a54c6/Dashboard_Images/6-Cyber%20Exploitation%20in%20India%20-%20Women%20%26%20Children%20at%20Risk%20(2022).png" width="800">
 </p>  
 
 ### 7️⃣ **Tracking Cyber Crime Investigation - State Wise Analysis (2022)**  
