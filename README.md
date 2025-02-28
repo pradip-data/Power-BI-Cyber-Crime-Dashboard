@@ -33,39 +33,70 @@ The dataset includes the following key fields:
 - **Excel/CSV/PDF**: Data sources used for analysis.
 
 
-# 🚨 The Dark Side of Digital India  
-
 ## 📊 Power BI Dashboard Visuals  
+<br>
+<br>
 
 ### 1️⃣ **The Dark Side of Digital India**  
-![The Dark Side of Digital India](https://github.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/blob/15ee7f1d6f5a2104d7ab4cdde085b27fb9f689e8/Dashboard_Images/1-Front%20Page%20-%20The%20Dark%20Side%20of%20Digital%20India.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/1-Front-Page.png" width="800">
+</p>  
 
 ### 2️⃣ **State-Wise Cyber Crime Analysis in India (2013-2023)**  
-![State-Wise Cyber Crime Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/2-State-Wise-Crime.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/2-State-Wise-Crime.png" width="800">
+</p>  
 
 ### 3️⃣ **City-Wise Cyber Crime Analysis in India (2020-22)**  
-![City-Wise Cyber Crime Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/3-City-Wise-Crime.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/3-City-Wise-Crime.png" width="800">
+</p>  
 
 ### 4️⃣ **Cyber Crime Categories Across States - Data-Driven Overview**  
-![Cyber Crime Categories Across States](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/4-Crime-Categories.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/4-Crime-Categories.png" width="800">
+</p>  
 
 ### 5️⃣ **The Cost of Cyber Crime in India - Financial Loss Analysis**  
-![Financial Loss Analysis](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/5-Financial-Loss.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/5-Financial-Loss.png" width="800">
+</p>  
 
 ### 6️⃣ **Cyber Exploitation in India - Women & Children at Risk (2022)**  
-![Cyber Exploitation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/6-Cyber-Exploitation.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/6-Cyber-Exploitation.png" width="800">
+</p>  
 
 ### 7️⃣ **Tracking Cyber Crime Investigation - State Wise Analysis (2022)**  
-![State-Wise Cyber Crime Investigation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/7-State-Investigation.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/7-State-Investigation.png" width="800">
+</p>  
 
 ### 8️⃣ **Tracking Cyber Crime Investigation - City Wise Analysis (2022)**  
-![City-Wise Cyber Crime Investigation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/8-City-Investigation.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/8-City-Investigation.png" width="800">
+</p>  
 
 ### 9️⃣ **Tracking Cyber Crime Investigation - Category Wise Insights (2022)**  
-![Category-Wise Cyber Crime Investigation](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/9-Category-Investigation.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/9-Category-Investigation.png" width="800">
+</p>  
 
 ### 🔟 **Insights & Recommendations**  
-![Insights & Recommendations](https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/10-Insights.png)
+<br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pradip-data/Power-BI-Cyber-Crime-Dashboard/main/dashboard_Images/10-Insights.png" width="800">
+</p>  
+
 
 
 
