@@ -1,0 +1,59 @@
+﻿SL,Crime Head,"Cases
+Pending
+Investigation from
+Previous
+Year","Cases
+Reported
+during the
+year","Total Cases
+for
+Investigation","Total Cases
+Pending
+Invsgn.at
+end of
+the year",Chargesheeting Rate,pendency percentage
+1,Tampering computer source documents,311,65,376,169,29.5,44.9
+2,Computer Related Offences,27964,23894,51885,24842,26.6,47.9
+2.1A,Ransom-ware,374,958,1332,289,20.6,21.7
+2.1B,Offences other than Ransom-ware,3686,2909,6598,3132,37.5,47.5
+2.2,"Dishonestly receiving stolen computer resource or
+communication device",506,358,864,570,46.6,66
+2.3,Identity Theft,11749,5740,17490,7015,23.5,40.1
+2.4,Cheating by personation by using computer resource,10894,13506,24423,13264,26,54.3
+2.5,Violation of Privacy,755,423,1178,572,31.7,48.6
+3,Cyber Terrorism,42,12,54,35,26.3,64.8
+4,"Publication/transmission of obscene / sexually explicit
+act in electronic form",7453,6896,14349,7169,50.2,50
+4.1,"Publishing or transmitting obscene material in
+Electronic Form",3060,2755,5815,2831,45.5,48.7
+4.2,"Publishing or transmitting of material containing
+Sexually explicit act in electronic form",1905,1931,3836,1841,59.3,48
+4.3,"Publishing or transmitting of material depicting
+children in Sexually explicit act in electronic form",820,1166,1986,1181,65.1,59.5
+4.4,"Preservation and retention of information by
+intermediaries",57,41,98,53,31.8,54.1
+4.5,Other Sections 67 IT Act,1611,1003,2614,1263,38.8,48.3
+5,"Interception or Monitoring or decryption of
+Information",7,1,8,7,100,87.5
+6,Un-authorized access/attempt to access to protected Computer System,4,1,5,5,,100
+7,Abetment to Commit Offences,3,4,7,4,33.3,57.1
+8,Attempt to Commit Offences,14,18,32,22,60,68.8
+9,Other Sections of IT Act,1390,1017,2407,1028,38.1,42.7
+10,Abetment of Suicide (Online),8,24,32,23,77.8,71.9
+11,Cyber Stalking/Bullying of Women/Children,1396,1471,2869,1710,72.8,59.6
+12,Data theft,222,97,319,210,34.9,65.8
+13,Fraud,17803,17470,36183,21289,22.8,58.8
+13.1,Credit Card/Debit Card,1754,1665,3907,2511,36.5,64.3
+13.2,ATMs,3575,1690,5565,3781,33.4,67.9
+13.3,Online Banking Fraud,6871,6491,13392,8247,18.1,61.6
+13.4,OTP Frauds,2080,2910,5050,2464,14.5,48.8
+13.5,Others,3523,4714,8269,4286,24.6,51.8
+14,Cheating,9717,10509,20288,11982,15.5,59.1
+15,Forgery,456,224,681,438,55.4,64.3
+16,Defamation/Morphing,60,61,121,74,55.3,61.2
+17,Fake Profile,203,157,360,243,35.9,67.5
+18,Counterfeiting,22,2,24,21,33.3,87.5
+18.1,Currency,22,2,24,21,33.3,87.5
+18.2,Stamps,0,0,0,0,,
+19,Cyber Blackmailing/Threatening,577,696,1273,712,38.3,55.9
+20,Fake News on Social Media,497,230,727,521,62.1,71.7
