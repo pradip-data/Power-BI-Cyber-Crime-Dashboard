@@ -9,11 +9,10 @@ The **Power BI Cyber Crime Dashboard** is an interactive data visualization tool
 - **Crime Categories**: Break down cybercrimes into various types (fraud, ransomware, identity theft, etc.).
 - **Financial Impact**: Assess the economic losses due to cybercrime.
 - **Investigation Efficiency**: Evaluate case resolution rates across states and mega cities.
-- **Gender & Age-Based Crime Analysis**: Focus on crimes against women and children.
+- **Gender & Based Crime Analysis**: Focus on crimes against women and children.
 
 ## 📊 Key Features
 - **Year-wise Cybercrime Trends**: Line charts showing crime progression from 2013-2023.
-- **State & City Heatmaps**: Identify the worst-affected states and cities.
 - **Crime Type Breakdown**: Pie charts/bar charts for cybercrime categories.
 - **Financial Loss Trends**: Analyze monetary losses from cybercrime.
 - **Investigative Performance Metrics**: Case pendency and resolution rates.
@@ -30,8 +29,9 @@ The dataset includes the following key fields:
 
 ## 🛠 Tech Stack
 - **Power BI**: Data visualization and dashboard creation.
-- **Excel/CSV**: Data sources used for analysis.
-- **SQL (Optional)**: Data preprocessing and filtering.
+- **Power Query** : ETL (Extract,Transform & Load )
+- **Excel/CSV/PDF **: Data sources used for analysis.
+
 
 ## 📌 Dashboard Insights & Visualizations
 1. **Cyber Crime Growth Over Years (2013-2023)**  
